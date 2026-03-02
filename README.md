@@ -72,13 +72,19 @@ outputs.
 
 After pipeline execution, the following charts are generated:
 
--   Daily Revenue Trend\
+-   Daily Revenue Trend
 <p align="center">
   <img src="analytics_charts/daily_revenue.png" width="500">
 </p>
 
--   Top 10 Categories by Revenue\
+-   Top 10 Categories by Revenue
+<p align="center">
+  <img src="analytics_charts/top_categories.png" width="500">
+</p>
 -   Top 10 Customers by Spend
+<p align="center">
+  <img src="analytics_charts/top_customers.png" width="500">
+</p>
 
 Charts are stored in the `analytics_charts/` directory.
 
