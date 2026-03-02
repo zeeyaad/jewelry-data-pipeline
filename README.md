@@ -72,7 +72,8 @@ outputs.
 
 After pipeline execution, the following charts are generated:
 
--   Daily Revenue Trend\<p align="center">
+-   Daily Revenue Trend\
+<p align="center">
   <img src="analytics_charts/daily_revenue.png" width="500">
 </p>
 
