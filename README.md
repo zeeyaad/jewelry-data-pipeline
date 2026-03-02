@@ -72,7 +72,8 @@ outputs.
 
 After pipeline execution, the following charts are generated:
 
--   Daily Revenue Trend\
+-   Daily Revenue Trend\<img width="1000" height="500" alt="daily_revenue" src="https://github.com/user-attachments/assets/eba07fa5-f49b-4e75-9dc0-ef37dd28917c" />
+
 -   Top 10 Categories by Revenue\
 -   Top 10 Customers by Spend
 
